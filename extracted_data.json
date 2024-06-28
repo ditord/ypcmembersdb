@@ -1,0 +1,421 @@
+<ul class="names-inner">
+<!-- ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/abrahamyan-aram/" class="ng-binding">ABRAHAMYAN Aram</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/akunian-willhelm/" class="ng-binding">AKUNIAN Willhelm</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/alaverdyan-davit/" class="ng-binding">ALAVERDYAN Davit</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/aleksanian-artak/" class="ng-binding">ALEKSANIAN Artak</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/aloyan-vardan/" class="ng-binding">ALOYAN Vardan</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/altunyan-gevorg/" class="ng-binding">ALTUNYAN Gevorg</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/amirjanyan-ruzanna/" class="ng-binding">AMIRJANYAN Ruzanna</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/amirkhanyan-juleta/" class="ng-binding">AMIRKHANYAN Juleta</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/amiryan-armen/" class="ng-binding">AMIRYAN Armen</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/ananyan-garnik/" class="ng-binding">ANANYAN Garnik</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/aramyan-ashot/" class="ng-binding">ARAMYAN Ashot</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/araxman-manukyan-emanvel/" class="ng-binding">ARAXMAN-MANUKYAN Emanvel</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/arevshatyan-shushanik/" class="ng-binding">AREVSHATYAN Shushanik</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/arshakian-mher/" class="ng-binding">ARSHAKIAN Mher</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/arshamyan-haykak/" class="ng-binding">ARSHAMYAN Haykak</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/arzumanyan-armen/" class="ng-binding">ARZUMANYAN Armen</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/asatryan-hakob/" class="ng-binding">ASATRYAN Hakob</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/aslanyan-david/" class="ng-binding">ASLANYAN David</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/avagyan-german/" class="ng-binding">AVAGYAN German</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/avedikian-hagop/" class="ng-binding">AVEDIKIAN Hagop</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/avetisyan-tigran/" class="ng-binding">AVETISYAN Tigran</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/ayvazyan-artiom/" class="ng-binding">AYVAZYAN Artiom</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/ayvazyan-varuzhan/" class="ng-binding">AYVAZYAN Varuzhan</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/azarian-arthur/" class="ng-binding">AZARIAN Arthur</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/azroyan-levon/" class="ng-binding">AZROYAN Levon</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/babajanian-hasmik/" class="ng-binding">BABAJANIAN Hasmik</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/babukhanyan-haik/" class="ng-binding">BABUKHANYAN Haik</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/badalyan-hakob/" class="ng-binding">BADALYAN Hakob</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/bagdasarian-melik/" class="ng-binding">BAGDASARIAN Melik</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/bagdasaryan-gerbert/" class="ng-binding">BAGDASARYAN Gerbert</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/baghdasaryan-edik/" class="ng-binding">BAGHDASARYAN Edik</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/baghdasaryan-laura/" class="ng-binding">BAGHDASARYAN Laura</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/baghdassarian-armen/" class="ng-binding">BAGHDASSARIAN Armen</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/baghdassarian-souren/" class="ng-binding">BAGHDASSARIAN Souren</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/barseghyan-mariam/" class="ng-binding">BARSEGHYAN Mariam</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/barsegyan-levon/" class="ng-binding">BARSEGYAN Levon</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/berberyan-hakob/" class="ng-binding">BERBERYAN Hakob</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/bouniatyan-gagik/" class="ng-binding">BOUNIATYAN Gagik</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/budaghian-hasmik/" class="ng-binding">BUDAGHIAN Hasmik</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/dadasyan-zhirayr/" class="ng-binding">DADASYAN Zhirayr</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/danielyan-khachik/" class="ng-binding">DANIELYAN Khachik</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/darbinyan-vasak/" class="ng-binding">DARBINYAN Vasak</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/davidyan-galina/" class="ng-binding">DAVIDYAN Galina</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/davoyan-mher/" class="ng-binding">DAVOYAN Mher</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/dayan-levon/" class="ng-binding">DAYAN Levon</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/demuryan-avet/" class="ng-binding">DEMURYAN Avet</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/dilbaryan-narine/" class="ng-binding">DILBARYAN Narine</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/diloyan-mikhail/" class="ng-binding">DILOYAN Mikhail</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/doydoyan-shushan/" class="ng-binding">DOYDOYAN Shushan</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/eghiazarian-roza/" class="ng-binding">EGHIAZARIAN Roza</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/eritsyan-sergo/" class="ng-binding">ERITSYAN Sergo</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/farmanyan-tigran/" class="ng-binding">FARMANYAN Tigran</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/galajyan-hovhannes/" class="ng-binding">GALAJYAN Hovhannes</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/galoyan-ara/" class="ng-binding">GALOYAN Ara</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/gasparian-hamlet/" class="ng-binding">GASPARIAN Hamlet</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/gazazyan-arshavir/" class="ng-binding">GAZAZYAN Arshavir</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/gevorgyan-hayk/" class="ng-binding">GEVORGYAN Hayk</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/gevorkyan-astkhik/" class="ng-binding">GEVORKYAN Astkhik</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/ghaghriyan-haykazn/" class="ng-binding">GHAGHRIYAN Haykazn</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/ghandilian-arthur/" class="ng-binding">GHANDILIAN Arthur</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/ghazaryan-manya/" class="ng-binding">GHAZARYAN Manya</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/ghazaryan-petros/" class="ng-binding">GHAZARYAN Petros</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/ghazinyan-aristakes/" class="ng-binding">GHAZINYAN Aristakes</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/gomtsian-natalia/" class="ng-binding">GOMTSIAN Natalia</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/grigorian-levon/" class="ng-binding">GRIGORIAN Levon</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/grigoryan-arevhat/" class="ng-binding">GRIGORYAN Arevhat</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/grigoryan-arthur/" class="ng-binding">GRIGORYAN Arthur</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/grigoryan-marina/" class="ng-binding">GRIGORYAN Marina</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/grigoryan-nikolay/" class="ng-binding">GRIGORYAN Nikolay</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/hakobian-marina/" class="ng-binding">HAKOBIAN Marina</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/hakobyan-hovhannes/" class="ng-binding">HAKOBYAN Hovhannes</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/hakobyan-tatul/" class="ng-binding">HAKOBYAN Tatul</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/hakobyan-tigran/" class="ng-binding">HAKOBYAN Tigran</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/haroutunian-alexan/" class="ng-binding">HAROUTUNIAN Alexan</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/harutiunian-arpi/" class="ng-binding">HARUTIUNIAN Arpi</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/harutiunian-gevorg/" class="ng-binding">HARUTIUNIAN Gevorg</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/harutunyan-mariam/" class="ng-binding">HARUTUNYAN Mariam</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/harutyunian-samvel/" class="ng-binding">HARUTYUNIAN Samvel</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/harutyunyan-arzuman/" class="ng-binding">HARUTYUNYAN Arzuman</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/harutyunyan-heriknaz/" class="ng-binding">HARUTYUNYAN Heriknaz</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/harutyunyan-mesrop/" class="ng-binding">HARUTYUNYAN Mesrop</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/harutyunyan-susanna/" class="ng-binding">HARUTYUNYAN Susanna</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/harutyunyan-tigran/" class="ng-binding">HARUTYUNYAN Tigran</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/hovhannisian-armen/" class="ng-binding">HOVHANNISIAN Armen</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/hovhannissian-tigran/" class="ng-binding">HOVHANNISSIAN Tigran</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/oganessian-astguik/" class="ng-binding">HOVHANNISYAN Astghik</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/oganessian-gaguik/" class="ng-binding">HOVHANNISYAN Gaguik</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/hovhannisyan-rafik/" class="ng-binding">HOVHANNISYAN Rafik</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/israelyan-anna/" class="ng-binding">ISRAELYAN Anna</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/janikyan-grigor/" class="ng-binding">JANIKYAN Grigor</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/kalantar-levon/" class="ng-binding">KALANTAR Levon</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/kalantarian-edward/" class="ng-binding">KALANTARIAN Edward</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/kalantarian-karine/" class="ng-binding">KALANTARIAN Karine</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/karakhanyan-vaghtang/" class="ng-binding">KARAKHANYAN Vaghtang</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/karapetyan-tigran/" class="ng-binding">KARAPETYAN Tigran</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/khachatrian-haroutiun/" class="ng-binding">KHACHATRIAN Haroutiun</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/khachatrian-mkhitar/" class="ng-binding">KHACHATRIAN Mkhitar</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/khachatrian-ruzanna/" class="ng-binding">KHACHATRIAN Ruzanna</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/khachikyan-zaven/" class="ng-binding">KHACHIKYAN Zaven</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/khodikyan-karine/" class="ng-binding">KHODIKYAN Karine</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/khumaryan-koryun/" class="ng-binding">KHUMARYAN Koryun</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/kirakosyan-arthur/" class="ng-binding">KIRAKOSYAN Arthur</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/kiviryan-armenika/" class="ng-binding">KIVIRYAN Armenika</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/kosyan-hovhannes/" class="ng-binding">KOSYAN Hovhannes</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/koushkyan-heghineh/" class="ng-binding">KOUSHKYAN Heghineh</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/kurdiyan-yelena/" class="ng-binding">KURDIYAN Yelena</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/kyureghyan-edik/" class="ng-binding">KYUREGHYAN Edik</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/levin-yakov/" class="ng-binding">LEVIN Yakov</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/liloyan-tigran/" class="ng-binding">LILOYAN Tigran</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/mangasaryan-ruben/" class="ng-binding">MANGASARYAN  Ruben</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/manoukyan-gegham/" class="ng-binding">MANOUKYAN Gegham</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/mansuryan-harutiun/" class="ng-binding">MANSURYAN Harutiun</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/manucharova-naira/" class="ng-binding">MANUCHAROVA Naira</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/manukyan-arayik/" class="ng-binding">MANUKYAN Arayik</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/manvelian-alexey/" class="ng-binding">MANVELIAN Alexey</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/margarian-ruben/" class="ng-binding">MARGARIAN Ruben</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/markosyan-diana/" class="ng-binding">MARKOSYAN Diana</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/martikian-naira/" class="ng-binding">MARTIKIAN Naira</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/martirosyan-ida/" class="ng-binding">MARTIROSYAN Ida</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/martirosyan-julietta/" class="ng-binding">MARTIROSYAN Julietta</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/martirosyan-vahram/" class="ng-binding">MARTIROSYAN Vahram</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/matevossian-shogher/" class="ng-binding">MATEVOSSIAN Shogher</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/matevosyan-hamlet/" class="ng-binding">MATEVOSYAN Hamlet</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/matinian-nerses/" class="ng-binding">MATINIAN Nerses</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/mavisakalian-robert/" class="ng-binding">MAVISAKALIAN Robert</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/mayrapetyan-samvel/" class="ng-binding">MAYRAPETYAN Samvel</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/melikbekian-armen/" class="ng-binding">MELIKBEKIAN Armen</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/melikyan-ashot/" class="ng-binding">MELIKYAN Ashot</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/melkumyan-hrachik/" class="ng-binding">MELKUMYAN Hrachik</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/meloyan-sona/" class="ng-binding">MELOYAN Sona</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/mendelian-nara/" class="ng-binding">MENDELIAN Nara</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/mesropian-alvard/" class="ng-binding">MESROPIAN Alvard</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/mikayelian-karen/" class="ng-binding">MIKAYELIAN Karen</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/mkrtchyan-anna/" class="ng-binding">MKRTCHYAN Anna</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/mkrtchyan-aram/" class="ng-binding">MKRTCHYAN Aram</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/mkrtchyan-emmanuil/" class="ng-binding">MKRTCHYAN Emmanuil</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/mkrtchyan-gagik/" class="ng-binding">MKRTCHYAN Gagik</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/mkrtchyan-gagik-2/" class="ng-binding">MKRTCHYAN Gagik</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/mkrtchyan-hasmik/" class="ng-binding">MKRTCHYAN Hasmik</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/mkrtchyan-marina/" class="ng-binding">MKRTCHYAN Marina</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/mkrtchyan-narine/" class="ng-binding">MKRTCHYAN Narine</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/mkrtchyan-samvel/" class="ng-binding">MKRTCHYAN Samvel</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/morikyan-aydin/" class="ng-binding">MORIKYAN Aydin</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/movsesyan-gayane/" class="ng-binding">MOVSESYAN Gayane</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/movsesyan-mesrop/" class="ng-binding">MOVSESYAN Mesrop</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/naghdalyan-tigran/" class="ng-binding">NAGHDALYAN Tigran</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/nakhashkaryan-flora/" class="ng-binding">NAKHASHKARYAN Flora</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/nalbandyan-albert/" class="ng-binding">NALBANDYAN Albert</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/nalbandyan-gnel/" class="ng-binding">NALBANDYAN Gnel</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/navasardian-boris/" class="ng-binding">NAVASARDIAN Boris</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/nazarian-tsovinar/" class="ng-binding">NAZARIAN Tsovinar</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/nikoghosian-tigran/" class="ng-binding">NIKOGHOSIAN Tigran</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/nikoghosyan-armen/" class="ng-binding">NIKOGHOSYAN Armen</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/ohanyan-armine/" class="ng-binding">OHANYAN Armine</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/papyan-siranuysh/" class="ng-binding">PAPYAN Siranuysh</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/pashinyan-nikol/" class="ng-binding">PASHINYAN Nikol</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/paskevichyan-tigran/" class="ng-binding">PASKEVICHYAN Tigran</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/paytyan-gayane/" class="ng-binding">PAYTYAN Gayane</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/pepanyan-artsrun/" class="ng-binding">PEPANYAN Artsrun</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/petrosov-konstantin/" class="ng-binding">PETROSOV Konstantin</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/petrosyan-hamajak/" class="ng-binding">PETROSYAN Hamajak</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/petrosyan-rimma/" class="ng-binding">PETROSYAN Rimma</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/petrosyan-yeghishe/" class="ng-binding">PETROSYAN Yeghishe</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/poghosbekian-elina/" class="ng-binding">POGHOSBEKIAN Elina</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/qyufaryan-boris/" class="ng-binding">QYUFARYAN Boris</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/rubinian-hakob/" class="ng-binding">RUBINIAN Hakob</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/safaryan-aram/" class="ng-binding">SAFARYAN Aram</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/sahakyan-aramais/" class="ng-binding">SAHAKYAN Aramais</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/sakhlyan-armen/" class="ng-binding">SAKHLYAN Armen</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/sakunts-arthur/" class="ng-binding">SAKUNTS Arthur</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/sargsian-merujan/" class="ng-binding">SARGSIAN Merujan</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/sargsian-samvel/" class="ng-binding">SARGSIAN Samvel</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/sargsyan-armen/" class="ng-binding">SARGSYAN Armen</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/sargsyan-gohar/" class="ng-binding">SARGSYAN Gohar</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/sargsyan-vachagan/" class="ng-binding">SARGSYAN Vachagan</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/sargsyan-vigen/" class="ng-binding">SARGSYAN Vigen</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/sarkissian-nouneh/" class="ng-binding">SARKISSIAN Nouneh</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/sarukhanyan-petros/" class="ng-binding">SARUKHANYAN Petros</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/satyan-ruben/" class="ng-binding">SATYAN Ruben</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/seyranyan-satik/" class="ng-binding">SEYRANYAN Satik</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/seyranyan-spartak/" class="ng-binding">SEYRANYAN Spartak</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/shahnazarian-susanna/" class="ng-binding">SHAHNAZARIAN Susanna</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/shiganian-seda/" class="ng-binding">SHIGANIAN Seda</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/shirinyan-ara/" class="ng-binding">SHIRINYAN Ara</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/simonian-anna/" class="ng-binding">SIMONIAN Anna</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/siradeghian-sos/" class="ng-binding">SIRADEGHIAN Sos</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/stepanyan-anna/" class="ng-binding">STEPANYAN Anna</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/stepanyan-lilik/" class="ng-binding">STEPANYAN Lilik</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/sukiassian-armenuhi/" class="ng-binding">SUKIASSIAN Armenuhi</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/tadevosyan-ara/" class="ng-binding">TADEVOSYAN Ara</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/tarjimanyan-arman/" class="ng-binding">TARJIMANYAN Arman</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/tarkhanyan-anahit/" class="ng-binding">TARKHANYAN Anahit</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/ter-gulanian-merujan/" class="ng-binding">TER GULANIAN Merujan</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/ter-sahakyan-karine/" class="ng-binding">TER-SAHAKYAN Karine</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/terzyan-gayane/" class="ng-binding">TERZYAN Gayane</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/topchyan-karen/" class="ng-binding">TOPCHYAN Karen</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/tyutyunjyan-tigranuhi/" class="ng-binding">TYUTYUNJYAN Tigranuhi</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/vardanyan-aghvan/" class="ng-binding">VARDANYAN Aghvan</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/verdyan-iosif/" class="ng-binding">VERDYAN Iosif</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/yalanuzyan-karl/" class="ng-binding">YALANUZYAN Karl</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/yerkanyan-artem/" class="ng-binding">YERKANYAN Artem</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/yesayan-margarit/" class="ng-binding">YESAYAN Margarit</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/yezekyan-artur/" class="ng-binding">YEZEKYAN Artur</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/zakharian-valeria/" class="ng-binding">ZAKHARIAN Valeria</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/zakharyan-karen/" class="ng-binding">ZAKHARYAN Karen</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/zakiev-roman/" class="ng-binding">ZAKIEV Roman</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/zohrabyan-irina/" class="ng-binding">ZOHRABYAN Irina</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/zolyan-mikael/" class="ng-binding">ZOLYAN Mikael</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse --><li ng-repeat="strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse" class="ng-scope">
+<a href="https://ypc.am/people/zoryan-hrayr/" class="ng-binding">ZORYAN Hrayr</a>
+</li><!-- end ngRepeat: strVal in arrVal | filter:searchText| mySort | orderBy:predicate:reverse -->
+</ul>
